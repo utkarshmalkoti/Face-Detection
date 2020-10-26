@@ -50,7 +50,7 @@ This will convert images into numpy array and save them in a pickle file as 'x.p
 and 'y.pickle' contains labels.<br>
 
 <h2>Face Recognition Model</h2>
-- Open and run face_rec.py.<br>
+- Open and run new.py.<br>
 This CNN model will split the dataset int training and testing dataset and train the model.<br>
 
 I have added my dataset as 'Xall.pickle' and 'Yall.pickle' and model as 'Cnn_model.json' and nuerons weights as 'best_new_weights.hdf5'.<br>
